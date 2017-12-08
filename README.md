@@ -9,7 +9,7 @@
   * はなもんや  
     https://tabelog.com/tokyo/A1304/A130401/13056556/
   * 島津  
-    https://tabelog.com/tokyo/A1304/A130401/13168434/party/254488/
+    https://tabelog.com/tokyo/A1304/A130401/13168434/
   * 永福苑  
     https://tabelog.com/tokyo/A1304/A130401/13056318/
 * 鮫洲
