@@ -33,6 +33,9 @@
 * 代々木
   * 串亭  
     * https://tabelog.com/tokyo/A1304/A130403/13029921/
+* 恵比寿
+  * 串亭
+    * https://tabelog.com/tokyo/A1303/A130302/13041726/
 
 
 # 魚
