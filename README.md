@@ -102,5 +102,5 @@
 * 新宿
   * 方舟  
     * https://tabelog.com/tokyo/A1304/A130401/13131676/
-  * 玄菜 本店
+  * 玄菜 本店
     * https://tabelog.com/tokyo/A1304/A130401/13032935/
