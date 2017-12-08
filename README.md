@@ -27,6 +27,7 @@
   * 済州  
     * https://goo.gl/maps/UhazKyDFMjS2
     * http://funatosg.blog68.fc2.com/blog-entry-231.html
+    * https://twitter.com/i/web/status/842025267694469120
 
 # 揚げ物
 * 代々木
