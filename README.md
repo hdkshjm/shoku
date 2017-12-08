@@ -4,9 +4,26 @@
     https://tabelog.com/tokyo/A1304/A130401/13132375/
   * ノーミートノーライフ  
     https://tabelog.com/tokyo/A1304/A130401/13162573/
+  * とんちゃん  
+    https://tabelog.com/tokyo/A1304/A130401/13017248/
+  * はなもんや  
+    https://tabelog.com/tokyo/A1304/A130401/13056556/
+  * 島津
+    https://tabelog.com/tokyo/A1304/A130401/13168434/party/254488/
+  * 永福苑  
+    https://tabelog.com/tokyo/A1304/A130401/13056318/
 * 鮫洲
   * 乙ちゃん  
     https://tabelog.com/tokyo/A1315/A131501/13154344/
+* 沼袋
+  * 平和苑  
+    https://tabelog.com/tokyo/A1321/A132104/13006939/
+* 神保町
+  * 焼肉処 三幸園  
+    https://tabelog.com/tokyo/A1310/A131003/13006241/
+* 西日暮里
+  * 済州島
+    https://tabelog.com/tokyo/A1324/A132401/13130261/
 
 # 揚げ物
 * 代々木
