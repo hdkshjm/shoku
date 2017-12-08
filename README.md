@@ -12,6 +12,11 @@
 * 五反田
   * ヌキテパ
     * https://tabelog.com/tokyo/A1316/A131603/13001566/
+    
+# 焼き鳥
+* 新宿
+  * 番番
+    * https://tabelog.com/tokyo/A1304/A130401/13045128/
 
 # 肉
 * 新宿
@@ -97,3 +102,5 @@
 * 新宿
   * 方舟  
     * https://tabelog.com/tokyo/A1304/A130401/13131676/
+  * 玄菜 本店
+    * https://tabelog.com/tokyo/A1304/A130401/13032935/
