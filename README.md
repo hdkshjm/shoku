@@ -18,7 +18,7 @@
 * 阿佐ヶ谷
   * SUGAR
 * 自由が丘
- * 金田
+  * 金田
 * 代々木
   * 日本酒とチーズ Tama‐awa  
     https://r.gnavi.co.jp/hvrd9m5r0000/
