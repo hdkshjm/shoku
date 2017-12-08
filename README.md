@@ -42,6 +42,9 @@
 * 新宿
   * タカマル水産  
     * https://tabelog.com/tokyo/A1304/A130401/13100664/
+* 品川
+  * 跳魚
+    * https://tabelog.com/tokyo/A1314/A131403/13033735/
 
 # 日本酒
 * 渋谷
