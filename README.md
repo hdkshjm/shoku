@@ -18,7 +18,7 @@
   * 番番
     * https://tabelog.com/tokyo/A1304/A130401/13045128/
 
-# 肉
+# 焼き肉
 * 新宿
   * 食肉センター  
     * https://tabelog.com/tokyo/A1304/A130401/13132375/
@@ -48,6 +48,11 @@
     * https://goo.gl/maps/UhazKyDFMjS2
     * http://funatosg.blog68.fc2.com/blog-entry-231.html
     * https://twitter.com/i/web/status/842025267694469120
+
+# すき焼き、しゃぶしゃぶ
+* 神田
+  * 牛禅
+    * https://tabelog.com/tokyo/A1310/A131002/13043725/
 
 # 揚げ物
 * 代々木
