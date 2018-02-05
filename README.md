@@ -35,6 +35,9 @@
 * 鮫洲
   * 乙ちゃん  
     * https://tabelog.com/tokyo/A1315/A131501/13154344/
+* 大森
+  * 乙ちゃん  
+    * https://tabelog.com/tokyo/A1315/A131502/13202444/
 * 沼袋
   * 平和苑  
     * https://tabelog.com/tokyo/A1321/A132104/13006939/
